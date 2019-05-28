@@ -1,0 +1,15 @@
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\MainWindow.g.cs
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\App.g.cs
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar_MarkupCompile.cache
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar_MarkupCompile.lref
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\MainWindow.baml
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.g.resources
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Users\РахимовС\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
